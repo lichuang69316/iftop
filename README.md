@@ -6,5 +6,5 @@
 ./iftop 
 ```
 - 语法参数
-![image.png](https://i.loli.net/2020/04/24/6QJv8unFRZpiofP.png)
+- ![image.png](https://i.loli.net/2020/04/24/6QJv8unFRZpiofP.png)
 
